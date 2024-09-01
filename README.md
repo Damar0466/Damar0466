@@ -1,4 +1,4 @@
-[![MasterHead](https://preview.redd.it/wmf4pf98d4l61.png?auto=webp&s=37e925607b22489b26b0cbe0ab844b7af1692946)](https://rishavchanda.io)
+[![MasterHead](https://media.istockphoto.com/id/1226504942/vector/seamless-pattern-with-programming-icons.jpg?s=612x612&w=0&k=20&c=kSBydY2PIPH6xViuStzvnyiX_1RuXKonG400YM7dp7U=)](https://github.com/Damar0466)
 <h1 align="center">Hi 👋, I'm Damar Radityo</h1>
 <h3 align="center">A Developer Bot From Indonesia</h3>
 

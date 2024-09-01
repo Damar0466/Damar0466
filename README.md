@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="400" src="https://i.pinimg.com/236x/17/cd/41/17cd4124e87c4b30a5fecf2605d86b6b.jpg">
+<img align="right" alt="Coding" width="400" src="https://preview.redd.it/wmf4pf98d4l61.png?auto=webp&s=37e925607b22489b26b0cbe0ab844b7af1692946">
 <h1 align="center">Hi 👋, I'm Damar Radityo</h1>
 <h3 align="center">A Developer Bot From Indonesia</h3>
 

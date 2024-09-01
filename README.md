@@ -1,6 +1,6 @@
+<img align="center" alt="Coding" width="400" src="https://i.pinimg.com/736x/28/9f/02/289f0221ba2afa9793dc8c174131a4c2.jpg">
 <h1 align="center">Hi 👋, I'm Damar Radityo</h1>
 <h3 align="center">A Developer Bot From Indonesia</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/736x/28/9f/02/289f0221ba2afa9793dc8c174131a4c2.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=damar0466&label=Profile%20views&color=0e75b6&style=flat" alt="damar0466" /> </p>
 

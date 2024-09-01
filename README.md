@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://preview.redd.it/wmf4pf98d4l61.png?auto=webp&s=37e925607b22489b26b0cbe0ab844b7af1692946">
+[![MasterHead](https://preview.redd.it/wmf4pf98d4l61.png?auto=webp&s=37e925607b22489b26b0cbe0ab844b7af1692946)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Damar Radityo</h1>
 <h3 align="center">A Developer Bot From Indonesia</h3>
 

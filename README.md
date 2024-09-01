@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Damar Radityo</h1>
-<h3 align="center">A Developer Of Another Bot</h3>
+<h3 align="center">A Developer Bot From Indonesia</h3>
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://www.google.com/url?sa=i&url=https%3A%2F%2Fid.pinterest.com%2Fpin%2F569283209151663676%2F&psig=AOvVaw3T-kEigQbfEvmbzbLL2Ll7&ust=1725279842041000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJiEl87eoYgDFQAAAAAdAAAAABAE)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=damar0466&label=Profile%20views&color=0e75b6&style=flat" alt="damar0466" /> </p>
 
